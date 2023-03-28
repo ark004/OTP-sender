@@ -1,6 +1,6 @@
 # OTP-sender
 
-# The OTP SENDER by twilio service
+# The OTP SENDER ,its a simple otp sender using python code with twilio trail account
 
 
 
